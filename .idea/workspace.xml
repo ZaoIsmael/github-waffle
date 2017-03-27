@@ -277,7 +277,7 @@
       <option name="type" value="BUG" />
       <updated>1490618603309</updated>
       <workItem from="1490618450903" duration="1288000" />
-      <workItem from="1490633747913" duration="445000" />
+      <workItem from="1490633747913" duration="529000" />
     </task>
     <task id="LOCAL-00003" summary="close #2">
       <created>1490618763682</created>
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490633990930</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="close #2">
+      <created>1490634199052</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490634199052</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <option name="createBranch" value="false" />
     <option name="useBranch" value="true" />
     <servers>
@@ -323,7 +330,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6946000" />
+    <option name="totallyTimeSpent" value="7030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
