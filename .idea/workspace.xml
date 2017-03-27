@@ -20,6 +20,11 @@
       </map>
     </option>
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="ZaoIsmael" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="github-waffle" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -305,9 +310,16 @@
       <option name="project" value="github-waffle" />
       <option name="type" value="BUG" />
       <updated>1490637497813</updated>
-      <workItem from="1490637498376" duration="678000" />
+      <workItem from="1490637498376" duration="2277000" />
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="workplace">
+      <created>1490638646720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490638646720</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers>
       <GitHub shared="false" url="https://github.com">
         <option name="assignedIssuesOnly" value="false" />
@@ -328,7 +340,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10729000" />
+    <option name="totallyTimeSpent" value="12328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,7 +416,8 @@
     <MESSAGE value="github-waffle-2 bx" />
     <MESSAGE value="close #2" />
     <MESSAGE value="close #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="close #3" />
+    <MESSAGE value="workplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workplace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
